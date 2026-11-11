@@ -38,12 +38,14 @@ This repository bridges enterprise IT Service Management (ITSM) and Major Incide
 ---
 ## 🎯 Core Focus Areas
 1. Mandatory Clauses (PDCA Lifecycle)
+
     a) Plan (Clauses 4–7): Establishing organizational scope, leadership oversight, quantitative/qualitative risk assessment methodologies, and        resource allocation.
     b) Do (Clause 8): Operationalizing risk treatment plans and control baselines.
     c) Check (Clause 9): Performance monitoring, conducting internal audits, and facilitating formal executive management reviews.
     d) Act (Clause 10): Remediation management, root-cause analysis (RCA), and continuous service improvement.
 
 2. Annex A: 2022 Control Themes
+
 Comprehensive mapping of all 93 controls categorized under the consolidated 4-theme structure:
     a) Organizational Controls (A.5): Special focus on A.5.19–A.5.23 (Supplier Governance) and A.5.24–A.5.28 (Incident Management).
     b) People Controls (A.6): Lifecycle security from onboarding to termination.
@@ -53,6 +55,7 @@ Comprehensive mapping of all 93 controls categorized under the consolidated 4-th
 3. Incident Governance & Operational Resilience
 
 Incident Escalation Taxonomies: Severity classification matrices mapping ITSM P1/Major Incident workflows to security breach severity levels.
+
 Timeline Compliance: Operational playbooks designed to meet European statutory reporting triggers (e.g., DORA 4h/24h milestones, NIS2 early warnings).
 
 
