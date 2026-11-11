@@ -34,7 +34,9 @@ This repository bridges enterprise IT Service Management (ITSM) and Major Incide
 └── 04-regulatory-mappings/       # EU Cross-Framework Alignment
     ├── dora-crosswalk.md         # ICT Incident reporting & resilience controls
     └── nis2-crosswalk.md         # Supply chain security & 24h notification rules
----
+text```
+-----
+
 
 
 
