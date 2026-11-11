@@ -34,9 +34,10 @@ This repository bridges enterprise IT Service Management (ITSM) and Major Incide
 └── 04-regulatory-mappings/       # EU Cross-Framework Alignment
     ├── dora-crosswalk.md         # ICT Incident reporting & resilience controls
     └── nis2-crosswalk.md         # Supply chain security & 24h notification rules
+ text```
+---
 
-
-# 🎯 Core Focus Areas
+## 🎯 Core Focus Areas
 1. Mandatory Clauses (PDCA Lifecycle)
 Plan (Clauses 4–7): Establishing organizational scope, leadership oversight, quantitative/qualitative risk assessment methodologies, and resource allocation.
 
