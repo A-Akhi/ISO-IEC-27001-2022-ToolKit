@@ -35,7 +35,9 @@ This repository bridges enterprise IT Service Management (ITSM) and Major Incide
     ├── dora-crosswalk.md         # ICT Incident reporting & resilience controls
     └── nis2-crosswalk.md         # Supply chain security & 24h notification rules
 
-🎯 Core Focus Areas
+```text
+
+# 🎯 Core Focus Areas
 1. Mandatory Clauses (PDCA Lifecycle)
 Plan (Clauses 4–7): Establishing organizational scope, leadership oversight, quantitative/qualitative risk assessment methodologies, and resource allocation.
 
@@ -61,4 +63,3 @@ Incident Escalation Taxonomies: Severity classification matrices mapping ITSM P1
 
 Timeline Compliance: Operational playbooks designed to meet European statutory reporting triggers (e.g., DORA 4h/24h milestones, NIS2 early warnings).
 
-⚖️ Regulatory CrosswalksISO 27001:2022 Control AreaDORA (Digital Operational Resilience)NIS2 DirectiveA.5.24–A.5.28 (Incident Management)Chapter III: Major ICT Incident Management & ReportingArticle 23: Reporting Obligations (Early Warning & Notification)A.5.19–A.5.23 (Supplier Relationships)Chapter V: Managing ICT Third-Party RiskArticle 21(2)(d): Supply Chain Security MeasuresA.5.29–A.5.30 (ICT Continuity & DR)Chapter II: ICT Risk Management & TestingArticle 21(2)(c): Business Continuity & Crisis Management
