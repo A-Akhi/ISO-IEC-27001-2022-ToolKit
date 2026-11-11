@@ -35,7 +35,6 @@ This repository bridges enterprise IT Service Management (ITSM) and Major Incide
     ├── dora-crosswalk.md         # ICT Incident reporting & resilience controls
     └── nis2-crosswalk.md         # Supply chain security & 24h notification rules
 
-```text
 
 # 🎯 Core Focus Areas
 1. Mandatory Clauses (PDCA Lifecycle)
